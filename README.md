@@ -1,0 +1,1 @@
+hello guys i want to make readme.md, course about git
